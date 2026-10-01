@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="250" viewBox="0 0 620 250" role="img" aria-label="PakLaw RAG — Search government PDFs and retrieve answers with source and page context.">
+<rect x="1" y="1" width="618" height="248" rx="18" fill="#101D30" stroke="#2A3B50"/>
+<path d="M28 38H50" stroke="#D9B66F" stroke-width="3"/>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="62" y="43" font-size="12" letter-spacing="1.1" fill="#D9B66F">KNOWLEDGE / DOCUMENT RETRIEVAL</text>
+<text x="576" y="46" font-size="23" fill="#5A6F88" text-anchor="end">02</text>
+<text x="28" y="95" font-size="30" font-weight="700" fill="#F8F4EA">PakLaw RAG</text>
+<text x="28" y="133" font-size="19" fill="#B9C6D5">Search government PDFs and retrieve</text>
+<text x="28" y="161" font-size="19" fill="#B9C6D5">answers with source and page context.</text>
+<path d="M28 190H592" stroke="#2A3B50"/>
+<text x="28" y="224" font-size="16" fill="#D9B66F">FAISS · BGE-M3 · Groq</text>
+<text x="590" y="224" font-size="15" fill="#E7EEF6" text-anchor="end">View code ↗</text>
+</g></svg>

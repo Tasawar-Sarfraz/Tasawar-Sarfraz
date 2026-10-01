@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Tasawar Sarfraz — AI Solutions and Automation Developer">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101D30"/><stop offset="1" stop-color="#07111D"/></linearGradient></defs>
+<rect width="1280" height="400" rx="24" fill="url(#bg)"/>
+<path d="M0 375H1280" stroke="#D9B66F" stroke-width="2" opacity=".5"/>
+<g fill="none" stroke="#26374A" stroke-width="1">
+<circle cx="1100" cy="180" r="165"/><circle cx="1100" cy="180" r="122"/><circle cx="1100" cy="180" r="79"/>
+<path d="M890 180H1270M1100 0V360"/>
+</g>
+<g fill="#D9B66F"><circle cx="1100" cy="58" r="5"/><circle cx="1222" cy="180" r="5"/><circle cx="1007" cy="294" r="5"/></g>
+<rect x="1016" y="135" width="166" height="92" rx="22" fill="#152438" stroke="#D9B66F"/>
+<text x="1099" y="195" font-family="DejaVu Sans,Arial,sans-serif" font-size="43" font-weight="700" fill="#F8F4EA" text-anchor="middle">TS.</text>
+<g font-family="DejaVu Sans,Arial,sans-serif">
+<text x="64" y="64" font-size="16" letter-spacing="4" fill="#D9B66F">APPLIED AI / BUSINESS AUTOMATION</text>
+<text x="60" y="148" font-size="68" font-weight="700" letter-spacing="-2" fill="#F8F4EA">Tasawar Sarfraz</text>
+<text x="64" y="200" font-size="28" fill="#D5DFE9">AI Solutions &amp; Automation Developer</text>
+<text x="64" y="247" font-size="21" fill="#9DACBD">Turning business problems into practical AI workflows.</text>
+<g font-size="16" fill="#F1D89F">
+<rect x="64" y="290" width="158" height="40" rx="20" fill="#1E2D3F"/><text x="143" y="316" text-anchor="middle">Generative AI</text>
+<rect x="234" y="290" width="88" height="40" rx="20" fill="#1E2D3F"/><text x="278" y="316" text-anchor="middle">RAG</text>
+<rect x="334" y="290" width="160" height="40" rx="20" fill="#1E2D3F"/><text x="414" y="316" text-anchor="middle">Multi-Agent AI</text>
+<rect x="506" y="290" width="166" height="40" rx="20" fill="#1E2D3F"/><text x="589" y="316" text-anchor="middle">Python Workflows</text>
+</g></g></svg>
